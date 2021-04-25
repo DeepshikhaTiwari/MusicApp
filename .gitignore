@@ -1,0 +1,10 @@
+.__pycache__
+.idea
+.git
+.migrations
+__pycache__
+migrations
+/__pycache__/
+.swp
+MovieApp/venv/
+staticfiles
